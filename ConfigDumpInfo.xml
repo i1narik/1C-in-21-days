@@ -35,8 +35,8 @@
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Сумма" id="df258c62-9431-4691-8a9a-9c92699364bf"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Количество" id="feea4dd2-070f-43e1-8118-7641d11e98c6"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента" id="53eeb83a-a2ea-40f8-a782-de30077855f0" configVersion="f4104b6ca0889b4eb273967660921e1e00000000"/>
-		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента.Form" id="53eeb83a-a2ea-40f8-a782-de30077855f0.0" configVersion="ef49ce51274dca4b9ce3340159998c5b00000000"/>
+		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента" id="53eeb83a-a2ea-40f8-a782-de30077855f0" configVersion="8cd48c8a19f3e541ac1c9b07aa7d2ebb00000000"/>
+		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента.Form" id="53eeb83a-a2ea-40f8-a782-de30077855f0.0" configVersion="7dda619f767e634785ce3ce1f980fa6000000000"/>
 		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="00d4391c-0b49-4bec-835b-c30b9aa7ce84.0" configVersion="c052f6364397fa43b0f2a547b895079100000000"/>
 		<Metadata name="Document.РеализацияТоваров" id="8508f3b1-17b4-4ccb-bffe-e63b744f3c3e" configVersion="e527a45afab5e34988a13d55615524a200000000">
 			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Товар" id="0e1eeb2e-835e-450f-b0d2-51475da638bb"/>
@@ -50,8 +50,8 @@
 			<Metadata name="Document.РеализацияТоваров.Attribute.СуммаДокумента" id="fa70f35b-01bc-4b0b-9132-cd7b663e4d40"/>
 		</Metadata>
 		<Metadata name="Document.РеализацияТоваров.Command.Печать.CommandModule" id="1427f923-903e-4e8e-b0a9-5c28be4c1a7e.2" configVersion="840950499da10645909e2f1f5e4a327100000000"/>
-		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента" id="ac6f69c0-885a-4d1f-9ce3-58c709362613" configVersion="8ce297a6252c3244b197650a11b1aefd00000000"/>
-		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента.Form" id="ac6f69c0-885a-4d1f-9ce3-58c709362613.0" configVersion="32c08bc4526a3549a8f22ba5686dbc3a00000000"/>
+		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента" id="ac6f69c0-885a-4d1f-9ce3-58c709362613" configVersion="4930a4a43e361a4da278aa6e2b1c8c7600000000"/>
+		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента.Form" id="ac6f69c0-885a-4d1f-9ce3-58c709362613.0" configVersion="4387cc7b7d97a44c854efc7e17e8a21500000000"/>
 		<Metadata name="Document.РеализацияТоваров.Help" id="8508f3b1-17b4-4ccb-bffe-e63b744f3c3e.1" configVersion="cd8e643e68e17b4b80a6bf65cf86645500000000"/>
 		<Metadata name="Document.РеализацияТоваров.ManagerModule" id="8508f3b1-17b4-4ccb-bffe-e63b744f3c3e.2" configVersion="82cffd1d5111204385bb0b2e641228f100000000"/>
 		<Metadata name="Document.РеализацияТоваров.ObjectModule" id="8508f3b1-17b4-4ccb-bffe-e63b744f3c3e.0" configVersion="c008bec1e608df43a0733dc311b2460900000000"/>
