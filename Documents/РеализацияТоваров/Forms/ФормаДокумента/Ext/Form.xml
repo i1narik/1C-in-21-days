@@ -33,6 +33,12 @@
 			<ContextMenu name="КлиентКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="КлиентРасширеннаяПодсказка" id="12"/>
 		</InputField>
+		<InputField name="СуммаДокумента" id="41">
+			<DataPath>Объект.СуммаДокумента</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="42"/>
+			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="43"/>
+		</InputField>
 		<Table name="Товары" id="13">
 			<Representation>List</Representation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
