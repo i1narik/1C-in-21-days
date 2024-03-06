@@ -19,8 +19,9 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура" id="1b7d0eb0-0b9d-47c7-83d1-1a752fbeb365" configVersion="a552827c501f664bb9a077b62f57ee4d00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="34ec6224-5c7e-4305-84d9-83fa182b91df" configVersion="33dee62615f2e6438ac3b8dfedae555600000000"/>
-		<Metadata name="Configuration.КанцОптТорг" id="6a70ad4e-568f-43e2-bc09-005df958e086" configVersion="daca81f48760a347a42255179bd5a95700000000"/>
+		<Metadata name="Configuration.КанцОптТорг" id="6a70ad4e-568f-43e2-bc09-005df958e086" configVersion="a3043772fccad342bbf7536370fabce600000000"/>
 		<Metadata name="Configuration.КанцОптТорг.HomePageWorkArea" id="4f7e52b4-f7a5-4cda-88c0-3b88ded63b6d.8" configVersion="5adf7c4155675344b7c3f5fd8d93185600000000"/>
+		<Metadata name="Configuration.КанцОптТорг.ManagedApplicationModule" id="4f7e52b4-f7a5-4cda-88c0-3b88ded63b6d.6" configVersion="c37ffb6acda2b94e94a1503bd31b5cd900000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="0b25f4ab-1d60-452e-941f-09051a3bc76a" configVersion="46ad7042366b5c4ba255f3a11192446900000000"/>
 		<Metadata name="Constant.НаименованиеСклада" id="e1fe183b-6583-459c-903c-dd08784aa0a8" configVersion="2b57446f785fe741a6b42b3f45dc6f0e00000000"/>
 		<Metadata name="Constant.НаименованиеСклада.ManagerModule" id="e1fe183b-6583-459c-903c-dd08784aa0a8.1" configVersion="1feb418abf16894abeb87aeb176af98700000000"/>
