@@ -1,4 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="b69f1c11-25ce-42b0-99c0-57a8bc003771" configVersion="489c92edb7ed1942b7ec472b0ae14cc700000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.ОтвественныйМенеджер" id="8ae1eada-72d5-47cb-9828-fc14023a693a"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЭтоПрочиеОтношения" id="8c63a670-92fb-4735-8caa-59b1dfa9c2f5"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЭтоПоставщик" id="b4205b32-681e-4c38-a1cf-a26d7c76937f"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЭтоКлиент" id="f4d4f5d5-fa2a-4921-a031-464cdc496799"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="1b7d0eb0-0b9d-47c7-83d1-1a752fbeb365" configVersion="a552827c501f664bb9a077b62f57ee4d00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="34ec6224-5c7e-4305-84d9-83fa182b91df" configVersion="33dee62615f2e6438ac3b8dfedae555600000000"/>
+		<Metadata name="Configuration.КанцОптТорг" id="6a70ad4e-568f-43e2-bc09-005df958e086" configVersion="87f290c6776c504184661a36cf36fad500000000"/>
+		<Metadata name="Constant.НаименованиеОрганизации" id="0b25f4ab-1d60-452e-941f-09051a3bc76a" configVersion="46ad7042366b5c4ba255f3a11192446900000000"/>
+		<Metadata name="Constant.НаименованиеСклада" id="e1fe183b-6583-459c-903c-dd08784aa0a8" configVersion="2b57446f785fe741a6b42b3f45dc6f0e00000000"/>
+		<Metadata name="Constant.НаименованиеСклада.ManagerModule" id="e1fe183b-6583-459c-903c-dd08784aa0a8.1" configVersion="1feb418abf16894abeb87aeb176af98700000000"/>
+		<Metadata name="Constant.НаименованиеСклада.ValueManagerModule" id="e1fe183b-6583-459c-903c-dd08784aa0a8.0" configVersion="4b276edf3299b243ad46aaac51773b8c00000000"/>
+		<Metadata name="Language.Русский" id="23d284f3-c8df-4802-851c-2dde752a6ba9" configVersion="73a226065a9f0b429deceb4a91f2193400000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>

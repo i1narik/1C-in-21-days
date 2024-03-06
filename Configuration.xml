@@ -32,8 +32,13 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Конфигурация</Name>
-			<Synonym/>
+			<Name>КанцОптТорг</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>ООО "КанцОптТорг"</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_23</ConfigurationExtensionCompatibilityMode>
@@ -224,6 +229,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Constant>НаименованиеОрганизации</Constant>
+			<Constant>НаименованиеСклада</Constant>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Сотрудники</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
