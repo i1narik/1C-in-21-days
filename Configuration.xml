@@ -229,7 +229,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Constant>НазваниеОрганизации</Constant>
+			<Constant>НаименованиеОрганизации</Constant>
+			<Constant>НаименованиеСклада</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
