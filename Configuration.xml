@@ -229,6 +229,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Закупки</Subsystem>
 			<Constant>НаименованиеОрганизации</Constant>
 			<Constant>НаименованиеСклада</Constant>
 			<Catalog>Номенклатура</Catalog>
@@ -237,7 +239,9 @@
 			<Document>ПоступлениеТоваров</Document>
 			<Document>РеализацияТоваров</Document>
 			<DocumentJournal>ТоварныеДокументы</DocumentJournal>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>Закупки</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
