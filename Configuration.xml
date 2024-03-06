@@ -234,6 +234,9 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Document>ПоступлениеТоваров</Document>
+			<Document>РеализацияТоваров</Document>
+			<DocumentJournal>ТоварныеДокументы</DocumentJournal>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
