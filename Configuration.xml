@@ -240,6 +240,7 @@
 			<Document>РеализацияТоваров</Document>
 			<DocumentJournal>ТоварныеДокументы</DocumentJournal>
 			<Report>ЗакупкиТоваров</Report>
+			<Report>ОстаткиТоваровПоДаннымДокумента</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>Закупки</AccumulationRegister>
