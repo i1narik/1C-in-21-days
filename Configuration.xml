@@ -239,6 +239,7 @@
 			<Document>ПоступлениеТоваров</Document>
 			<Document>РеализацияТоваров</Document>
 			<DocumentJournal>ТоварныеДокументы</DocumentJournal>
+			<Report>ЗакупкиТоваров</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>Закупки</AccumulationRegister>
