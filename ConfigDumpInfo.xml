@@ -19,7 +19,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура" id="1b7d0eb0-0b9d-47c7-83d1-1a752fbeb365" configVersion="a552827c501f664bb9a077b62f57ee4d00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="34ec6224-5c7e-4305-84d9-83fa182b91df" configVersion="33dee62615f2e6438ac3b8dfedae555600000000"/>
-		<Metadata name="Configuration.КанцОптТорг" id="6a70ad4e-568f-43e2-bc09-005df958e086" configVersion="820a82c55175c842b9740d242220145600000000"/>
+		<Metadata name="Configuration.КанцОптТорг" id="6a70ad4e-568f-43e2-bc09-005df958e086" configVersion="e067648d53fd064489a5c64656426d2600000000"/>
 		<Metadata name="Configuration.КанцОптТорг.HomePageWorkArea" id="4f7e52b4-f7a5-4cda-88c0-3b88ded63b6d.8" configVersion="5adf7c4155675344b7c3f5fd8d93185600000000"/>
 		<Metadata name="Configuration.КанцОптТорг.ManagedApplicationModule" id="4f7e52b4-f7a5-4cda-88c0-3b88ded63b6d.6" configVersion="5c1c2f495c695e48828a5d4ac802b19400000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="0b25f4ab-1d60-452e-941f-09051a3bc76a" configVersion="46ad7042366b5c4ba255f3a11192446900000000"/>
@@ -68,7 +68,10 @@
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="ea7eab40-0f83-484e-ae09-a4a2b4cfe723"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="23d284f3-c8df-4802-851c-2dde752a6ba9" configVersion="73a226065a9f0b429deceb4a91f2193400000000"/>
-		<Metadata name="Subsystem.Закупки" id="e51589e6-17f5-479b-8e25-26227cc7fee4" configVersion="4c6b9b8ea189ec46b0b216e38b78813800000000"/>
+		<Metadata name="Report.ЗакупкиТоваров" id="f55a6b2d-f451-4a07-8440-51866a9935a1" configVersion="16a13aa081fe7443a3616c3196e73fca00000000"/>
+		<Metadata name="Report.ЗакупкиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="21fcff99-8f5d-4721-834d-79873915329a" configVersion="4bd85d48400b7f46ab2526cd97d364ae00000000"/>
+		<Metadata name="Report.ЗакупкиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="21fcff99-8f5d-4721-834d-79873915329a.0" configVersion="308f1b2750bb154e93e444d1416a5f2500000000"/>
+		<Metadata name="Subsystem.Закупки" id="e51589e6-17f5-479b-8e25-26227cc7fee4" configVersion="e22b17471c90be43881225ebffc3585e00000000"/>
 		<Metadata name="Subsystem.Продажи" id="cc27d050-e580-4948-bc1d-798b5af417b3" configVersion="bfb7ca9c64920544ad9db05732ecf76f00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
