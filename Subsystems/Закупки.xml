@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DocumentJournal.ТоварныеДокументы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Закупки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ЗакупкиТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиТоваровПоДаннымДокумента</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
